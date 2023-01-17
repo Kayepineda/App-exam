@@ -1,0 +1,33 @@
+name: flutter_application_1
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  riverpod: ^2.1.3  
+
+
+
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+
+
+flutter:
+
+ 
+
+
